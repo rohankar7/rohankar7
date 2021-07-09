@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohankar7
-- 👀 I’m interested in ...
-- 🌱 I’m currently a final year Bachelor student in Computer Science and Engineering
+- 👀 I’m interested in programming and developing software projects
+- 🌱 I’m currently a final year Bachelor studying Computer Science and Engineering
 - 💞️ I’m looking to collaborate on game design / development projects
 - 📫 Please feel free to contact me at rohankar365@gmail.com
 - Thank you \\(@^_^)/
