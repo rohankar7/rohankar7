@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rohankar7
 - 👀 I’m interested in programming and developing software projects
-- 🌱 I’m currently a final year Bachelor studying Computer Science and Engineering
+- 🌱 I’m currently a pursuing MSc Artificial Intelligence
 - 💞️ I’m looking to collaborate on game design / development projects
-- 📫 Please feel free to contact me at rohankar365@gmail.com
+- 📫 Please feel free to contact me for collaborative projects
 - Thank you \\(@^_^)/
 
 <!---
