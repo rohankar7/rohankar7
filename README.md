@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rohankar7
-- 👀 I’m interested in programming and developing software projects
-- 🌱 I’m currently a pursuing MSc Artificial Intelligence
+- 👀 I’m interested in programming and developing softwares
+- 🌱 I’m currently pursuing MSc Artificial Intelligence
 - 💞️ I’m looking to collaborate on game design / development projects
-- 📫 Please feel free to contact me for collaborative projects
+- 📫 Please connect with me for collaborations
 - Thank you \\(@^_^)/
 
 <!---
